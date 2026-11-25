@@ -1,0 +1,12 @@
+/data/
+/vision-packages/
+/smoke-data-*/
+/repeat-model-*/
+/.venv/
+/.env
+/.env.*
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.log
